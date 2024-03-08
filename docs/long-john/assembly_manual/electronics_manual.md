@@ -5,4 +5,4 @@
 
 Plug the toolsetter into the `Z_MAX` endstop connector. Note that your wire colours may be different to those shown in the images.
 
-![](./toolsetter wiring.png){: .shadow}
+![Long-John Toolsetter wiring diagram](./toolsetter_wiring.png){: .shadow}
